@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "imports": [
+    "js/aw-panel.directive",
+    "js/aw-panel-body.directive",
+    "js/aw-textbox.directive",
+    "js/aw-button.directive",
+    "js/aw-i18n.directive",
+    "js/aw-panel-section.directive",
+    "js/aw-row.directive",
+    "js/aw-column.directive",
+    "js/aw-flex-row.directive",
+    "js/aw-flex-column.directive"
+  ],
+  //insert,
+    "i18n": {
+      "submitButtonTitle": ""
+    }
+  }

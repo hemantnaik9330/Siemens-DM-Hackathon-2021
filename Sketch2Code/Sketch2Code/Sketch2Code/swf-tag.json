@@ -1,0 +1,9 @@
+{
+  "SWF": {
+    "h1": "",
+    "label": "<aw-label prop = data.{0} ></aw-label>",
+    "input": "<aw-textbox prop= data.{0} ></aw-textbox>",
+    "button": "<aw-button size = \"auto\">{0}</aw-button>"
+  }
+} 
+

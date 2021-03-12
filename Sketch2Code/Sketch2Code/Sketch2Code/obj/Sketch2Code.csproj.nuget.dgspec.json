@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hemant.naik\\Downloads\\Old\\Sketch2Code (1)\\Sketch2Code\\Sketch2Code\\Sketch2Code.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hemant.naik\\Downloads\\Old\\Sketch2Code (1)\\Sketch2Code\\Sketch2Code\\Sketch2Code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hemant.naik\\Downloads\\Old\\Sketch2Code (1)\\Sketch2Code\\Sketch2Code\\Sketch2Code.csproj",
+        "projectName": "Sketch2Code",
+        "projectPath": "C:\\Users\\hemant.naik\\Downloads\\Old\\Sketch2Code (1)\\Sketch2Code\\Sketch2Code\\Sketch2Code.csproj",
+        "packagesPath": "C:\\Users\\hemant.naik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hemant.naik\\Downloads\\Old\\Sketch2Code (1)\\Sketch2Code\\Sketch2Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hemant.naik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.30, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+<aw-panel>
+    <aw-panel-body>
+        <aw-flex-row height="15f"></aw-flex-row>
+        <aw-flex-row justify="center">
+            <aw-flex-column width="40"></aw-flex-column>
+            <h1>Sign Up Login</h1>
+        </aw-flex-row>
+        <br />
+        <aw-flex-row justify="center">            
+            <aw-flex-column width="2" justify="center">
+               //insert1
+            </aw-flex-column>
+            <aw-separator is-vertical="true"></aw-separator>
+            <aw-flex-column width="2" justify="center">
+                //insert2
+            </aw-flex-column>
+        </aw-flex-row>
+        <aw-flex-row justify="center">
+            <aw-flex-column width="40f"></aw-flex-column>
+            //insert3
+        </aw-flex-row>
+    </aw-panel-body>
+</aw-panel>

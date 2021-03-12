@@ -1,0 +1,14 @@
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\swf-tag.json
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\ViewModelTemplate.json
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\ViewTemplate.txt
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\Sketch2Code.deps.json
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\Sketch2Code.runtimeconfig.json
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\Sketch2Code.runtimeconfig.dev.json
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\Sketch2Code.dll
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\bin\Release\netcoreapp2.1\Sketch2Code.pdb
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\obj\Release\netcoreapp2.1\Sketch2Code.csprojAssemblyReference.cache
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\obj\Release\netcoreapp2.1\Sketch2Code.csproj.CoreCompileInputs.cache
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\obj\Release\netcoreapp2.1\Sketch2Code.AssemblyInfoInputs.cache
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\obj\Release\netcoreapp2.1\Sketch2Code.AssemblyInfo.cs
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\obj\Release\netcoreapp2.1\Sketch2Code.dll
+C:\Users\pbwgs6\Documents\Visual Studio 2017\Projects\Sketch2Code\Sketch2Code\obj\Release\netcoreapp2.1\Sketch2Code.pdb
